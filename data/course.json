@@ -1,0 +1,62 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Developmental Economics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Public Economics"
+    ]
+  ],
+  "legacy_uid": "2803bf2d-b4f8-a458-9ca2-acc45ac1c985",
+  "instructors": {
+    "content": [
+      "4fdc2f44-984c-d6f6-4e65-f7cee55b5a9b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a220acb5-e7a1-f980-d8c3-5a91419a83c3",
+    "website": "11-487-urban-public-finance-in-developing-countries-fall-2004"
+  },
+  "course_title": "Urban Public Finance in Developing Countries",
+  "course_description": "This readings-based course analyzes the structure and operation of government systems in developing countries, with particular emphasis on regional and local governments. Major topics include: the role of decentralization in national economic reform programs, the potential impact of decentralized governments on local economic development, determination of optimal arrangements for sharing fiscal responsibilities among levels of government, evaluation of local revenue and expenditure decisions, and assessment of prospects and options for intergovernmental fiscal reform. Emphasis is on basic economic concerns, with consideration given to political, institutional, and cultural factors.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.487",
+  "course_image_thumbnail": {
+    "content": "35b80b67-79ae-c403-00ef-a3c06ad42418",
+    "website": "11-487-urban-public-finance-in-developing-countries-fall-2004"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Presentation Assignments"
+  ],
+  "site_uid": "1b327ec0-e744-422b-ba20-c9092d452eb7",
+  "site_short_id": "11.487-fall-2004",
+  "site_url_path": "courses/11-487-urban-public-finance-in-developing-countries-fall-2004",
+  "title": "Course Metadata"
+}
