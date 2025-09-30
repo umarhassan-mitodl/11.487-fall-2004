@@ -4,6 +4,8 @@ description: Solutions to a problem set on urban public finance in developing co
 file: /courses/11-487-urban-public-finance-in-developing-countries-fall-2004/3e5ff202ae235a483213157deeb3f700_ps3_ans.pdf
 file_size: 14380
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

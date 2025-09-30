@@ -27,7 +27,7 @@ Problem set 1 ({{% resource_link "a72266d1-ba08-6914-4d7b-e5e6a418c2c0" "PDF" %}
 
 ({{% resource_link "dc7fabff-52fa-1f3d-ce72-0695bbc224e6" "PDF" %}})
 
-Supplement to the 2002 Government Finance Statistics Yearbook ({{% resource_link "75cd2d21-b111-4da0-a037-768f9e3d1569" "PDF" %}})
+Supplement to the 2002 Government Finance Statistics Yearbook ([PDF](http://www.imf.org/external/pubs/ft/gfs/manual/supp.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14

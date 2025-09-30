@@ -142,7 +142,7 @@ Property Tax (cont.)
 
 Kelly, Roy. "Designing a Property Tax Reform Strategy for Sub-Saharan Africa: an Analytical Framework Applied to Kenya." *Public Budgeting and Finance* (Winter 2000): 36-51.
 
-———. "Property Taxation in Indonesia: Challenges from Decentralization." Lincoln Institute of Land Policy Working Paper, WP03RK1, 2003. ({{% resource_link "21fbb8af-43e3-48e7-bfa0-e2ade266c824" "PDF" %}})
+———. "Property Taxation in Indonesia: Challenges from Decentralization." Lincoln Institute of Land Policy Working Paper, WP03RK1, 2003. ([PDF](https://www.lincolninst.edu/sites/default/files/pubfiles/788_kelly03web.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
