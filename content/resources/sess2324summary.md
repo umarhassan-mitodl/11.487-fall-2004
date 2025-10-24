@@ -4,8 +4,6 @@ description: Student summary of reading assignment with discussion questions.
 file: /courses/11-487-urban-public-finance-in-developing-countries-fall-2004/8d9f044c182f1b51159906269a1da467_sess2324summary.pdf
 file_size: 22691
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
